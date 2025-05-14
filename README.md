@@ -3,7 +3,7 @@
 A collection of SQL mini-projects demonstrating database design, data manipulation, and analytical query capabilities across different business domains.
 
 ## Repository Structure
-
+```text
 sql-portfolio/
 ├── README.md                  # Main portfolio overview
 ├── ecommerce-analytics/       # Current project
@@ -25,7 +25,7 @@ sql-portfolio/
 ├── financial-data-warehouse/  # Future project
 ├── healthcare-analytics/      # Future project
 └── LICENSE
-
+```
 ## Projects
 
 ### [E-commerce Analytics Platform](./ecommerce-analytics)
