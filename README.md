@@ -6,6 +6,7 @@ A collection of SQL mini-projects demonstrating database design, data manipulati
 ```text
 sql-portfolio/
 ├── README.md                  # Main portfolio overview
+├── .gitignore                
 ├── ecommerce-analytics/       # Current project
 │   ├── README.md              # Project-specific documentation
 │   ├── schema/                # Database creation scripts
